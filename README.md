@@ -1,16 +1,66 @@
-## Hi there 👋
+# 🎯 **Hi there, I'm Kaushik Satpute!** 👋
 
-<!--
-**KaushikSatpute/KaushikSatpute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 *Data Science and Analytics Student*\
+🚀 *Aspiring Data Scientist | AI Enthusiast | Problem Solver*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 **About Me**
+
+📘 I'm a passionate **data science student** with hands-on experience in:\
+📊 **Exploratory Data Analysis** | 🧩 **Machine Learning** | ✨ **Generative AI**
+
+🔎 I enjoy transforming complex datasets into meaningful insights and building intelligent solutions to solve real-world problems.
+
+🔧 My journey includes working on diverse projects, from **EDA on electric vehicle and employee datasets** to **building fraud detection systems** using machine learning models.
+
+💡 **Goal:** To continuously learn, experiment, and contribute to the evolving world of **Data Science** and **AI**.
+
+---
+
+## 🚀 **Skills & Tools**
+
+| 🚀 **Category**         | 🛠️ **Tools & Technologies**      |
+| ----------------------- | --------------------------------- |
+| 🐍 **Programming**      | Python                            |
+| 🗃️ **Databases**       | SQL                               |
+| 📊 **Visualization**    | Matplotlib, Seaborn, Plotly       |
+| 🤖 **Machine Learning** | Scikit-learn, TensorFlow, PyTorch |
+| 🛢️ **Data Analysis**   | Pandas, NumPy                     |
+| 🌐 **Web Scraping**     | Beautiful Soup, Requests          |
+| 📚 **Version Control**  | Git, GitHub                       |
+
+---
+
+## 📜 **Certifications & Achievements**
+
+🎓 **Udemy Certification in SQL**\
+🎓 **Internship Certificate in Data Science and Generative AI**
+
+---
+
+## 📂 **Projects**
+
+🔧 **AI Code Reviewer**\
+*Built an AI-powered tool to review code for optimization and bug detection.*
+
+⚡ **Electric Vehicle EDA**\
+*Conducted exploratory data analysis, created visualizations like choropleth maps and animated bar charts to understand EV trends.*
+
+👥 **AMCAT Employee Data Analysis**\
+*Analyzed job roles, salary trends, and academic performance to derive key workforce insights.*
+
+---
+
+## 📬 **Let's Connect!**
+
+📩 **LinkedIn:** [Kaushik Satpute](https://www.linkedin.com/in/kaushik-satpute)\
+🐦 **Twitter:** [@KaushikSatpute](https://twitter.com/KaushikSatpute)\
+📧 **Email:** [kaushik.satpute@example.com](mailto\:kaushik.satpute@example.com)
+
+---
+
+✨ *“Turning data into decisions, and ideas into innovations.”* ✨
+
+🚀 **Let’s build something amazing together!** 🚀
+
