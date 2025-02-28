@@ -24,10 +24,9 @@
 | ----------------------- | --------------------------------- |
 | 🐍 **Programming**      | Python                            |
 | 🗃️ **Databases**       | SQL                               |
-| 📊 **Visualization**    | Matplotlib, Seaborn, Plotly       |
+| 📊 **Visualization**    | Matplotlib, Seaborn               |
 | 🤖 **Machine Learning** | Scikit-learn, TensorFlow, PyTorch |
 | 🛢️ **Data Analysis**   | Pandas, NumPy                     |
-| 🌐 **Web Scraping**     | Beautiful Soup, Requests          |
 | 📚 **Version Control**  | Git, GitHub                       |
 
 ---
