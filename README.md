@@ -54,7 +54,7 @@
 ## 📬 **Let's Connect!**
 
 📩 **LinkedIn:** [Kaushik Satpute](https://www.linkedin.com/in/kaushik-satpute)\
-📧 **Email:** [kaushik.satpute@example.com](mailto\:kaushik.satpute@example.com)
+📧 **Email:** [kaushiksatpute94@gmail.com](mailto\:kaushiksatpute94@gmail.com)
 
 ---
 
