@@ -54,7 +54,6 @@
 ## 📬 **Let's Connect!**
 
 📩 **LinkedIn:** [Kaushik Satpute](https://www.linkedin.com/in/kaushik-satpute)\
-🐦 **Twitter:** [@KaushikSatpute](https://twitter.com/KaushikSatpute)\
 📧 **Email:** [kaushik.satpute@example.com](mailto\:kaushik.satpute@example.com)
 
 ---
